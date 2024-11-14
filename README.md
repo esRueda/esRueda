@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Esteban Rueda 💻<br><br>Full Stack Developer | Computer Science<br><br>Working for Asseco Spain Group, part of an IBERIA application handling and development team.
+Hi! I'm Esteban Rueda 💻<br><br>Full Stack Developer | Computer Science<br><br>Working for Asseco Spain Group, I'm part of an IBERIA application handling and development team.
 
 
 ## 🌐 Socials:
